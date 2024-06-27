@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mysticcder
+- 👋 Hi, I’m @Mysticcoder or you can call me Alex
 - am a python programmer,Javascript,Reactnative,a web developer and also an android developer
 - 🌱 I’m currently learning Angular and vue.js
 - 💞️ I’m looking to collaborate on any project 
